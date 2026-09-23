@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b8a2c0d0fe5ba879f52029c9",
+  "owner": "thhmmec",
+  "repo": "page-2e51118a9c60a59e1abfb913",
+  "title": "Gauss机场(Gauss)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2e51118a9c60a59e1abfb913",
+      "a": "Gauss机场(Gauss)",
+      "b": "2027最新官网",
+      "entity": "Gauss机场(Gauss)",
+      "brand": "Gauss机场(Gauss)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0c0d4d15c3d9bc9397d27b5f2de6aed19345fbe41f5798b3fe35aae80bcf1048",
+      "content": {
+        "primary_entity": "Gauss机场(Gauss)",
+        "keyword1": "Gauss机场(Gauss)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器按需选择客户端。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好设备与流量档位，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 Gauss 加速器",
+          "AI_DESCRIPTION": "，围绕设备数量、月流量与订阅周期划分基础版、旗舰版和团队版三档，方便按日常使用场景对比选择。基础版适合手机与平板两三台设备同时在线，旗舰版增加设备数并强化流媒体与游戏线路，团队版提供高带宽节点与定制路由。选择时先统计常用终端数量和月均流量，再结合客户端的订阅导入方式完成配置。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三项信息帮助快速定位合适方案。",
+          "AI_FEATURES_TITLE": "选择 Gauss 的参考要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 流量，旗舰版 ¥35/月含 300GB，团队版 ¥85/月含 1000GB。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先数清日常在线的手机、电脑与平板。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付价格，长期使用可选年付方案，按周期一次性完成订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入的三个步骤。",
+          "AI_GUIDE_TITLE": "Gauss 使用步骤",
+          "AI_HERO_INTRO": "Gauss 机场提供多档流量套餐，覆盖手机、电脑与路由器等终端，方便按设备数量和月流量选择合适档位。",
+          "AI_HERO_SUBTITLE": "多设备流媒体游戏加速",
+          "AI_HIGHLIGHT_1": "三档套餐 100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案适合长期稳定使用",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版与团队版的流量、设备数量和线路权益，按需选定一档。",
+          "AI_PLANS_TITLE": "三档套餐按需选择",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版、团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与线路说明，确认手机、电脑或路由器能够满足使用需求。",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档导入订阅信息，完成配置后在终端上使用加速服务。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "查看适配与限制",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "Gauss 加速器套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Gauss机场怎么导入订阅？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅或配置导入选项，粘贴 Gauss机场提供的订阅链接，保存后更新节点列表即可。不同客户端菜单名称略有差异，可参考客户端文档。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量可能导致部分设备无法连接，建议按实际设备数选择版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按 ¥15 起每月扣费，灵活度高；年付一次性支付全年费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折算每月更便宜。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线节点，针对游戏加速和原生流媒体播放做了延迟优化，适合对连接稳定性要求较高的用户。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由和 VIP 专属高带宽节点，并配备专属客户经理，适合有固定出口需求的小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--4gqx1hgtfdmt.lol",
+    "host": "xn--4gqx1hgtfdmt.lol"
+  },
+  "file_hashes": {
+    "index.html": "67447d9cec0bf177b699dcba6bb42dd9e80f991e654b4bc102a7ec6167d27a4e",
+    "sitemap.xml": "ac28df8f59c6fe948adac1d34e6f65fd21451deede71fb74abae217a74a557a1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "90779d18b48f6f11d2218e21d075b0a78859fa85681332524503e2a4d55e6597",
+    "robots.txt": "45b4bfcc39b7f9057ed55bcef86a298ed3fd2e0e3bb84f25770b1eda3ae219f7",
+    "5582c05c676790c0b243c266fa78cc6c.txt": "8e81d69dbb02fc5edfe86823efb901702c05855f0ca28a2cb9d5ad1a5e149d92"
+  },
+  "revision": "91d8b6fe937ad38ca02344bd278e221da7cb1679b94324aa25fafcd9ceb22f44"
+}
